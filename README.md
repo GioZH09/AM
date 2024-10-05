@@ -22,7 +22,7 @@ _texto italica_
 **texto italica negritas**
 
 
-![ciclo de vida] (https://edenms.wordpress.com/wp-content/uploads/2015/05/life.png?w=570)
+![ciclo de vida](https://edenms.wordpress.com/wp-content/uploads/2015/05/life.png?w=570)
 
 
 
