@@ -15,9 +15,8 @@ Listas
  4. Tres
  5. Cuatro
 
-Negritas
-
-** Negritas 
-
+**texto negritas**
+_texto italica_
+**texto italica negritas**
 
  
